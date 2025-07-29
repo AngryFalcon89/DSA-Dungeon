@@ -1,6 +1,10 @@
 # 🗡️ DSA Dungeon: Shadow Monarch's Logbook
 
-Inspired by Solo Leveling — this is my ranked climb from F-Rank to Shadow Monarch through the dungeons of Data Structures & Algorithms.
+> Inspired by *Solo Leveling* — a journey from F-Rank to Shadow Monarch through the dungeons of Data Structures & Algorithms.
+
+![Commits](https://img.shields.io/github/commit-activity/m/AngryFalcon89/DSA-Dungeon)
+![Repo Size](https://img.shields.io/github/repo-size/AngryFalcon89/DSA-Dungeon)
+![Top Language](https://img.shields.io/github/languages/top/AngryFalcon89/DSA-Dungeon)
 
 ---
 
@@ -8,31 +12,28 @@ Inspired by Solo Leveling — this is my ranked climb from F-Rank to Shadow Mona
 
 | Rank | Title           | Focus                            | Status       |
 |------|------------------|----------------------------------|--------------|
-| F    | Beginner         | Time Complexity, Arrays, Strings | ✅ Started    |
-| E    | Novice           | Stacks, Queues, Linked Lists     | 🔒 Locked     |
-| D    | Apprentice       | Recursion, Trees                 | 🔒 Locked     |
-| C    | Fighter          | Graphs, Sorting                  | 🔒 Locked     |
-| B    | Elite            | Sliding Window, Greedy           | 🔒 Locked     |
-| A    | Master           | DP, Backtracking, Trie           | 🔒 Locked     |
-| S    | Shadow Monarch   | Mixed Problems, Contests         | 🔒 Locked     |
+| 🟤 F    | Beginner         | Time Complexity, Arrays, Strings | ✅ Started    |
+| 🔵 E    | Novice           | Stacks, Queues, Linked Lists     | 🔒 Locked     |
+| 🟢 D    | Apprentice       | Recursion, Trees                 | 🔒 Locked     |
+| 🟣 C    | Fighter          | Graphs, Sorting                  | 🔒 Locked     |
+| 🟠 B    | Elite            | Sliding Window, Greedy           | 🔒 Locked     |
+| 🔴 A    | Master           | DP, Backtracking, Trie           | 🔒 Locked     |
+| ⚫ S    | Shadow Monarch   | Mixed Problems, Contests         | 🔒 Locked     |
 
 ---
 
-## 🧠 Folder Structure
+## 📂 Folder Structure
 
 Each rank contains:
 
-- 📘 `Skills/` – Concept notes
-- ⚔️ `Quests/` – Solved problems (Python & C++)
-- 👹 `BossFights/` – Weekly challenges, contests
+- `Skills/` – Concept notes
+- `Quests/` – Solved problems (Python & C++)
+- `BossFights/` – Contests & weekly challenges
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tech Stack
 
-- 🧠 C++ and 🐍 Python
-- 🛡️ GitHub for version control
-- 🧭 LeetCode + GFG for problem sets
-
-Let the grind begin. Glory to the Monarch! 💀
-
+- 🧠 C++ & 🐍 Python for problem solving
+- ⚔️ LeetCode, GeeksforGeeks for problem pool
+- 🛡️ GitHub for tracking my DSA journey
