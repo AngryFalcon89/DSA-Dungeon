@@ -1,4 +1,4 @@
-![F-Rank](../../assets/rank-ups/f-rank.png)
+![F-Rank](../assets/rank-ups/f-rank.png)
 
 # 🟤 F-Rank — The Awakening
 

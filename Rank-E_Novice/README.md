@@ -1,4 +1,4 @@
-![E-Rank](../../assets/rank-ups/e-rank.png)
+![E-Rank](../assets/rank-ups/e-rank.png)
 
 # 🟢 E-Rank — Foundations Strengthened
 

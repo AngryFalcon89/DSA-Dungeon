@@ -1,4 +1,4 @@
-![C-Rank](../../assets/rank-ups/c-rank.png)
+![C-Rank](../assets/rank-ups/c-rank.png)
 
 # 🟣 C-Rank — Tactical Awakening
 

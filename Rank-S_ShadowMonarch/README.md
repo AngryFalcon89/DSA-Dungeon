@@ -1,4 +1,4 @@
-![SSS-Rank](../../assets/rank-ups/s-rank.png)
+![SSS-Rank](../assets/rank-ups/s-rank.png)
 
 # ⚫ S-Rank — Monarch of Code
 

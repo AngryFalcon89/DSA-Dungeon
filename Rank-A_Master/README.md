@@ -1,4 +1,4 @@
-![A-Rank](../../assets/rank-ups/a-rank.png)
+![A-Rank](../assets/rank-ups/a-rank.png)
 
 # 🔴 A-Rank — Advanced Spellcasting
 

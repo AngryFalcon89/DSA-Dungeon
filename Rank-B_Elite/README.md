@@ -1,4 +1,4 @@
-![B-Rank](../../assets/rank-ups/b-rank.png)
+![B-Rank](../assets/rank-ups/b-rank.png)
 
 # 🟡 B-Rank — Structural Mastery
 

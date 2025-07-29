@@ -1,4 +1,4 @@
-![D-Rank](../../assets/rank-ups/d-rank.png)
+![D-Rank](../assets/rank-ups/d-rank.png)
 
 # 🔵 D-Rank — First Power Surge
 
