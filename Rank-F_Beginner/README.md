@@ -1,13 +1,26 @@
-<p align="center">
-  <img src="./rank.png" width="300"/>
-</p>
+![F-Rank](../../assets/rank-ups/f-rank.png)
 
-## 🛡️ F-Rank Dungeon
+# 🟤 F-Rank — The Awakening
 
-This is the starting floor. Here you face basic monsters like arrays and loops.
-Slay them all to ascend to E-Rank!
+**Status:** Just Awakened  
+**Mission:** Learn the basics. Prepare your mind and sword.
 
-✅ Arrays  
-⬜️ Prefix Sum  
-⬜️ Sliding Window  
-⬜️ Sorting Basics
+## 🧠 Concepts
+- Arrays
+- Basic Input/Output
+- Loops (for, while)
+- Conditionals (if-else)
+- Time Complexity (Intro)
+
+## 🎯 Goals
+- Solve 15 basic problems
+- Understand how loops & arrays interact
+- Write your own functions
+
+## 🧪 Dungeon Quests
+- Reverse an array
+- Find min/max
+- Print pattern pyramids
+- Sum of digits
+
+> “Even Jin-Woo started from F-Rank… but so did everyone else.”
