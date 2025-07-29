@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="DSA Dungeon Banner" style="width:100%;"/>
+</p>
 # 🗡️ DSA Dungeon: Shadow Monarch's Logbook
 
 > Inspired by *Solo Leveling* — a journey from F-Rank to Shadow Monarch through the dungeons of Data Structures & Algorithms.
